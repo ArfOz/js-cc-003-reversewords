@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: blue;
+}
+
+#as{
+    width: auto;
+    min-height: 20px;
+    display: block;
+    margin-left: 30%;
+    margin-top: 10%;
+}
+
+#rev{
+    min-height: 20px;
+    background-color: yellow;
+    box-sizing: content-box;
+    max-width: 40%;
+}
